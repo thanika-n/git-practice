@@ -1,0 +1,6 @@
+NGINX Deployment Notes
+
+1. Install nginx
+2. Configure server block
+3. Test nginx config
+4. Reload nginx
