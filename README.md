@@ -10,4 +10,4 @@ This repository contains my Git and deployment practice files.
   
 ## Additional Topics
 - SSL
-- Docker
+- Docker Containers
