@@ -7,3 +7,7 @@ This repository contains my Git and deployment practice files.
 - Branching
 - Merging
 - Deployment workflows
+  
+## Additional Topics
+- SSL
+- Docker
